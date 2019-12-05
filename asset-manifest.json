@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/offline.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/offline.github.io/static/js/main.e2a7b18f.chunk.js",
+    "main.js.map": "/offline.github.io/static/js/main.e2a7b18f.chunk.js.map",
+    "runtime-main.js": "/offline.github.io/static/js/runtime-main.cb2b942f.js",
+    "runtime-main.js.map": "/offline.github.io/static/js/runtime-main.cb2b942f.js.map",
+    "static/js/2.f24cd3f2.chunk.js": "/offline.github.io/static/js/2.f24cd3f2.chunk.js",
+    "static/js/2.f24cd3f2.chunk.js.map": "/offline.github.io/static/js/2.f24cd3f2.chunk.js.map",
+    "index.html": "/offline.github.io/index.html",
+    "precache-manifest.3428a47f365b88c8b3ddfdc1e8d61985.js": "/offline.github.io/precache-manifest.3428a47f365b88c8b3ddfdc1e8d61985.js",
+    "service-worker.js": "/offline.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/offline.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f24cd3f2.chunk.js.LICENSE": "/offline.github.io/static/js/2.f24cd3f2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/offline.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb2b942f.js",
+    "static/js/2.f24cd3f2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e2a7b18f.chunk.js"
+  ]
+}
